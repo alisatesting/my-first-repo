@@ -1,3 +1,3 @@
 "This is a new feature for out project."
 It adds important functionality!
-I've added more details here.
+This is a new feature for our project. It adds crucial functionality! 
